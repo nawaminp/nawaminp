@@ -6,12 +6,16 @@ I'm a developer skilled in web and mobile app development. I began as an Android
 
 I hold a Bachelor's degree in Computer Engineering, providing a foundation in computer programming, operating systems, computations, and related technologies.
 
+## Works 🧑‍💻
+My work experience includes roles at a software house company, where I've contributed to diverse projects like subscription systems, payment gateways, ERP management, accounting, e-commerce, gamification, product list and details, task management, ride-hailing, internal communications, and more.
+
 ## Human 🧑
 
-I'm not a hardcore tech geek but strive to stay updated with the latest technologies. My work experience includes roles at a software house company, where I've contributed to diverse projects like subscription systems, payment gateways, ERP management, accounting, e-commerce, gamification, product list and details, task management, ride-hailing, internal communications, and more.
+I'm not a hardcore tech geek but always strive to stay updated with the latest technologies. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nawaminp/)
 
+## Skills ⚒️
 ### Current Skills 👨‍🔧
 
 <p align="left">
