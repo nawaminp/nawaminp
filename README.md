@@ -1,6 +1,6 @@
-### Hi, Nice to meet you. I'm Nott.
+### Hi, I'm Nott. Nice to meet you.
 
-I'm a developer skilled in web and mobile app development. I began as an Android app developer and expanded into web development, building APIs with Node.js and creating applications using Next.js and TypeScript. I also handle DevOps, managing server instances and AWS architecture, integrating with various third-party services.
+I'm a developer skilled in web and mobile app development. I began as an Android app developer and expanded into web development, building APIs with Node.js and creating applications using Next.js and TypeScript. I also handle DevOps, managing server instances and AWS architecture, integrating with various third-party services. I also serve as a branch manager, leading a team of junior and mid-level developers, driving collaboration, boosting morale, and overseeing general management.
 
 ## Education 👨‍🎓
 
@@ -25,7 +25,6 @@ I'm not a hardcore tech geek but strive to stay updated with the latest technolo
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
